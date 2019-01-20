@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <application display_value="PoC_ApprovalManagement">a8f4cabedb7aa30035c8f78dbf961918</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>WorkFlowHistories</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_poc_requesta_workflowhistory</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>^sysparm_query=ORDERBYDESCdatetime%5EGROUPBYrequesttask</query>
+        <report/>
+        <roles>x_snc_poc_requesta.workflowhistory_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 00:01:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d73c8a53dbbee30035c8f78dbf961954</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>WorkFlowHistory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_app_module_d73c8a53dbbee30035c8f78dbf961954</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-20 06:27:43</sys_updated_on>
+        <timeline_page/>
+        <title>WorkFlowHistory</title>
+        <uncancelable>false</uncancelable>
+        <view_name>defaut</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>

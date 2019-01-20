@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="requesttask" label="RequestTask" language="en" table="x_snc_poc_requesta_workflowhistory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requesttask</element>
+            <help/>
+            <hint/>
+            <label>RequestTask</label>
+            <language>en</language>
+            <name>x_snc_poc_requesta_workflowhistory</name>
+            <plural>RequestTasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-10 07:54:35</sys_created_on>
+            <sys_id>8178f7d7db3227004a397a1ebf9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>RequestTask</sys_name>
+            <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_poc_requesta_workflowhistory_requesttask_en</sys_update_name>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-10 07:54:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

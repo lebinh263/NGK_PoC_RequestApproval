@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Send Email">716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="PoC_RequestF1">0429cce3db7227004a397a1ebf96193e</flow>
+        <order>10</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>6029cce3db7227004a397a1ebf9619eb</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_hub_action_instance_6029cce3db7227004a397a1ebf9619eb</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-13 05:22:29</sys_updated_on>
+        <ui_id>05bdf4ff-4780-480c-b35a-a9c2e7b9d83d</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=6029cce3db7227004a397a1ebf9619eb"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>6029cce3db7227004a397a1ebf9619eb</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>e829cce3db7227004a397a1ebf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <value>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Email Body &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=6029cce3db7227004a397a1ebf9619eb"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>6029cce3db7227004a397a1ebf9619eb</id>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>6829cce3db7227004a397a1ebf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>6029cce3db7227004a397a1ebf9619eb</id>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>a429cce3db7227004a397a1ebf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>Flow - Your request has been {{07c05ea5-2fa5-40fd-99f6-ea3581899386.approval_state}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>6029cce3db7227004a397a1ebf9619eb</id>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>e029cce3db7227004a397a1ebf9619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Created or Updated_1.current.requested_by.email}}</value>
+    </sys_element_mapping>
+</record_update>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">cb17ee43dbb6e30035c8f78dbf96190e</block>
+        <comment/>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="PoC_RequestF1">0429cce3db7227004a397a1ebf96193e</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:26</sys_created_on>
+        <sys_id>8429cce3db7227004a397a1ebf961964</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_8429cce3db7227004a397a1ebf961964</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-13 05:22:28</sys_updated_on>
+        <ui_id>0709d326-c2ff-4ba5-a2ff-a8ee552b2ed6</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=8429cce3db7227004a397a1ebf961964"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>8429cce3db7227004a397a1ebf961964</document_key>
+        <order>10</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:26</sys_created_on>
+        <sys_id>8429cce3db7227004a397a1ebf961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:26</sys_updated_on>
+        <value>Approved</value>
+        <variable display_value="">f0af19c1c32632002841b63b12d3aea3</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>8429cce3db7227004a397a1ebf961964</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:26</sys_created_on>
+        <sys_id>c029cce3db7227004a397a1ebf961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:26</sys_updated_on>
+        <value>{{07c05ea5-2fa5-40fd-99f6-ea3581899386.approval_state}}=approved</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category/>
+        <client_script><![CDATA[
+
+
+
+]]></client_script>
+        <description>add comment when submiting request</description>
+        <direct>false</direct>
+        <endpoint>x_snc_poc_requesta_requesttask_comments_dialog.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<div><p>this is the form</p></div>
+</j:jelly>]]></html>
+        <name>requesttask_comments_dialog</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 12:03:35</sys_created_on>
+        <sys_id>0f40b0afdb76270035c8f78dbf9619cb</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>requesttask_comments_dialog</sys_name>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_ui_page_0f40b0afdb76270035c8f78dbf9619cb</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 23:36:36</sys_updated_on>
+    </sys_ui_page>
+</record_update>

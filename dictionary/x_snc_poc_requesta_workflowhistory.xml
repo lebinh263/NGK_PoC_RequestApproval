@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" label="WorkFlowHistory" max_length="40" name="x_snc_poc_requesta_workflowhistory" type="collection">
+        <element display="true" label="Commnent" max_length="255" name="commnent" type="string"/>
+        <element label="DateTime" max_length="40" name="datetime" type="glide_date_time"/>
+        <element label="PersonInCharge" max_length="1000" name="personincharge" reference="sys_user" type="reference"/>
+        <element label="RequestTask" max_length="40" name="requesttask" read_only="true" reference="x_snc_poc_requesta_requesttask" reference_floats="true" type="reference"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+        <index name="index">
+            <element name="requesttask"/>
+        </index>
+    </element>
+</database>

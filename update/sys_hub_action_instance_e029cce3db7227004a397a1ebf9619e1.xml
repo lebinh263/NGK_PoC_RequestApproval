@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type_parent>
+        <comment/>
+        <compiled_snapshot display_value="Create Record">2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="PoC_RequestF1">0429cce3db7227004a397a1ebf96193e</flow>
+        <order>9</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>e029cce3db7227004a397a1ebf9619e1</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_hub_action_instance_e029cce3db7227004a397a1ebf9619e1</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-13 05:22:29</sys_updated_on>
+        <ui_id>de9942ca-3b38-43fb-a729-023b0295e1b7</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e029cce3db7227004a397a1ebf9619e1"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e029cce3db7227004a397a1ebf9619e1</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>6029cce3db7227004a397a1ebf9619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <value>x_snc_poc_requesta_workflowhistory</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=e029cce3db7227004a397a1ebf9619e1"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>e029cce3db7227004a397a1ebf9619e1</id>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>2c29cce3db7227004a397a1ebf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>e029cce3db7227004a397a1ebf9619e1</id>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:28</sys_created_on>
+        <sys_id>ec29cce3db7227004a397a1ebf9619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-10 09:07:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>commnent={{a50d1dfe-213d-4d7a-a07f-0af98bce00a5.Record.comments}}^datetime={{9171e152-01d7-433a-b35b-8ffc7ba592a9.currdatetime}}^personincharge={{a50d1dfe-213d-4d7a-a07f-0af98bce00a5.Record.approver}}^status={{a50d1dfe-213d-4d7a-a07f-0af98bce00a5.Record.sysapproval.state}}^requesttask={{a50d1dfe-213d-4d7a-a07f-0af98bce00a5.Record.sysapproval}}</value>
+    </sys_element_mapping>
+</record_update>

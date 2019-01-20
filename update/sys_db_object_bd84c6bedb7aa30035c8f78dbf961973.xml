@@ -11,9 +11,9 @@
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Status</label>
-        <live_feed_enabled>false</live_feed_enabled>
+        <live_feed_enabled>true</live_feed_enabled>
         <name>x_snc_poc_requesta_status</name>
-        <number_ref/>
+        <number_ref display_value="">2317420bdb36e30035c8f78dbf961974</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>
@@ -23,14 +23,14 @@
         <sys_created_by>le-binh</sys_created_by>
         <sys_created_on>2019-01-08 10:12:57</sys_created_on>
         <sys_id>bd84c6bedb7aa30035c8f78dbf961973</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Status</sys_name>
         <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
         <sys_policy/>
         <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
         <sys_update_name>sys_db_object_bd84c6bedb7aa30035c8f78dbf961973</sys_update_name>
         <sys_updated_by>le-binh</sys_updated_by>
-        <sys_updated_on>2019-01-08 10:12:57</sys_updated_on>
+        <sys_updated_on>2019-01-09 23:57:49</sys_updated_on>
         <update_access>false</update_access>
         <user_role display_value="x_snc_poc_requesta.status_user" name="x_snc_poc_requesta.status_user">2cf4cabedb7aa30035c8f78dbf96190d</user_role>
         <ws_access>true</ws_access>

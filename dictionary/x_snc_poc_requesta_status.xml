@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Status" max_length="40" name="x_snc_poc_requesta_status" type="collection">
+    <element attributes="live_feed=true" label="Status" max_length="40" name="x_snc_poc_requesta_status" type="collection">
         <element label="Name" max_length="255" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>

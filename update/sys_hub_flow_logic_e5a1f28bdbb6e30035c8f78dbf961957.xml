@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">ada1f28bdbb6e30035c8f78dbf961955</block>
+        <comment/>
+        <connected_to>0709d326-c2ff-4ba5-a2ff-a8ee552b2ed6</connected_to>
+        <display_text/>
+        <flow display_value="PoC_RequestF1">b852e28fdb76e30035c8f78dbf96197d</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>7</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-09 08:06:45</sys_created_on>
+        <sys_id>e5a1f28bdbb6e30035c8f78dbf961957</sys_id>
+        <sys_mod_count>31</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_e5a1f28bdbb6e30035c8f78dbf961957</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-13 05:22:33</sys_updated_on>
+        <ui_id>675e2c31-cdae-4fd5-9be4-2e4c4d2e552f</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=e5a1f28bdbb6e30035c8f78dbf961957"/>
+</record_update>

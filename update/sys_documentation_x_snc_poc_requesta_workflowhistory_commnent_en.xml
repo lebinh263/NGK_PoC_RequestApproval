@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="commnent" label="Commnent" language="en" table="x_snc_poc_requesta_workflowhistory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>commnent</element>
+            <help/>
+            <hint/>
+            <label>Commnent</label>
+            <language>en</language>
+            <name>x_snc_poc_requesta_workflowhistory</name>
+            <plural>Commnents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-10 00:05:19</sys_created_on>
+            <sys_id>9b0d0693dbbee30035c8f78dbf961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Commnent</sys_name>
+            <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_poc_requesta_workflowhistory_commnent_en</sys_update_name>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-10 00:05:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

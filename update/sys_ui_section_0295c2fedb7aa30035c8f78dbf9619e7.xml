@@ -1,254 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="0295c2fedb7aa30035c8f78dbf9619e7" sys_domain="global" table="x_snc_poc_requesta_requests" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>details</element>
             <position>0</position>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>c295c2fedb7aa30035c8f78dbf9619e9</sys_id>
+            <sys_created_on>2019-01-09 03:41:39</sys_created_on>
+            <sys_id>def43d4fdbf2e30035c8f78dbf9619df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
+            <sys_updated_on>2019-01-09 03:41:39</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>details</element>
-            <position>1</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>4695c2fedb7aa30035c8f78dbf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>2</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>c695c2fedb7aa30035c8f78dbf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>orderdate</element>
-            <position>3</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>4a95c2fedb7aa30035c8f78dbf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requester</element>
-            <position>4</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>ca95c2fedb7aa30035c8f78dbf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>5</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>4e95c2fedb7aa30035c8f78dbf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>6</position>
+            <position>1</position>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>ce95c2fedb7aa30035c8f78dbf9619e9</sys_id>
+            <sys_created_on>2019-01-09 03:41:39</sys_created_on>
+            <sys_id>52f43d4fdbf2e30035c8f78dbf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
+            <sys_updated_on>2019-01-09 03:41:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>7</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:15:47</sys_created_on>
-            <sys_id>4295c2fedb7aa30035c8f78dbf9619ea</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:15:47</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>approver1</element>
-            <position>8</position>
+            <position>2</position>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:27:13</sys_created_on>
-            <sys_id>11380272dbbaa30035c8f78dbf9619d7</sys_id>
+            <sys_created_on>2019-01-09 03:41:39</sys_created_on>
+            <sys_id>d2f43d4fdbf2e30035c8f78dbf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:27:13</sys_updated_on>
+            <sys_updated_on>2019-01-09 03:41:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>approver2</element>
-            <position>9</position>
+            <position>3</position>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:27:38</sys_created_on>
-            <sys_id>7f488272dbbaa30035c8f78dbf961928</sys_id>
+            <sys_created_on>2019-01-09 03:41:39</sys_created_on>
+            <sys_id>56f43d4fdbf2e30035c8f78dbf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:27:38</sys_updated_on>
+            <sys_updated_on>2019-01-09 03:41:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>approver3</element>
-            <position>10</position>
+            <position>4</position>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:28:24</sys_created_on>
-            <sys_id>3e780672dbbaa30035c8f78dbf961995</sys_id>
+            <sys_created_on>2019-01-09 03:41:39</sys_created_on>
+            <sys_id>d6f43d4fdbf2e30035c8f78dbf9619e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:28:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approveddate1</element>
-            <position>11</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:24:18</sys_created_on>
-            <sys_id>8c013d4bdbf2e30035c8f78dbf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:24:18</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approveddate2</element>
-            <position>12</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:24:34</sys_created_on>
-            <sys_id>40117d4bdbf2e30035c8f78dbf9619b5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:24:34</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approveddate3</element>
-            <position>13</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:24:48</sys_created_on>
-            <sys_id>6b11bd4bdbf2e30035c8f78dbf9619f8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:24:48</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>requested</element>
-            <position>14</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:27:38</sys_created_on>
-            <sys_id>85c13d8bdbf2e30035c8f78dbf9619e0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:27:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approved1</element>
-            <position>15</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:27:58</sys_created_on>
-            <sys_id>ced1fd8bdbf2e30035c8f78dbf961944</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:27:58</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approved2</element>
-            <position>16</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:28:12</sys_created_on>
-            <sys_id>19e1fd8bdbf2e30035c8f78dbf9619d7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:28:12</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approved3</element>
-            <position>17</position>
-            <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-09 03:28:27</sys_created_on>
-            <sys_id>70f1b1cbdbf2e30035c8f78dbf96191e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_poc_requesta_requests" sys_domain="global" view="Default view">0295c2fedb7aa30035c8f78dbf9619e7</sys_ui_section>
-            <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-09 03:28:27</sys_updated_on>
+            <sys_updated_on>2019-01-09 03:41:39</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

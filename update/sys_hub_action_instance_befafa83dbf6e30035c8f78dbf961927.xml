@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="TestActionVariables">70a87243dbf6e30035c8f78dbf96195f</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot display_value="TestActionVariables">70a87243dbf6e30035c8f78dbf96195f</compiled_snapshot>
+        <display_text/>
+        <flow display_value="PoC_RequestF1">b852e28fdb76e30035c8f78dbf96197d</flow>
+        <order>4</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-09 08:47:31</sys_created_on>
+        <sys_id>befafa83dbf6e30035c8f78dbf961927</sys_id>
+        <sys_mod_count>50</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_hub_action_instance_befafa83dbf6e30035c8f78dbf961927</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-13 05:22:32</sys_updated_on>
+        <ui_id>9171e152-01d7-433a-b35b-8ffc7ba592a9</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=befafa83dbf6e30035c8f78dbf961927"/>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="RequestTask" max_length="40" name="x_snc_poc_requesta_requesttask" sizeclass="5" type="collection">
+        <element label="Approved" max_length="40" name="approved" type="glide_date_time"/>
+        <element label="Rejected" max_length="40" name="rejected" type="glide_date_time"/>
+        <element label="Requested" max_length="40" name="requested" type="glide_date_time"/>
+        <element label="Requested by" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+    </element>
+</database>

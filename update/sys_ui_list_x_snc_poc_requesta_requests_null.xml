@@ -3,77 +3,137 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">49464efedb7aa30035c8f78dbf9619ac</list_id>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:18:43</sys_created_on>
-            <sys_id>85464efedb7aa30035c8f78dbf9619ad</sys_id>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>591512c3db76e30035c8f78dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:18:43</sys_updated_on>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>details</element>
-            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">49464efedb7aa30035c8f78dbf9619ac</list_id>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:18:43</sys_created_on>
-            <sys_id>8d464efedb7aa30035c8f78dbf9619ad</sys_id>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>d91512c3db76e30035c8f78dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:18:43</sys_updated_on>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>orderdate</element>
-            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">49464efedb7aa30035c8f78dbf9619ac</list_id>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:18:43</sys_created_on>
-            <sys_id>01464efedb7aa30035c8f78dbf9619ae</sys_id>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>5d1512c3db76e30035c8f78dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:18:43</sys_updated_on>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>requester</element>
-            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">49464efedb7aa30035c8f78dbf9619ac</list_id>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:18:43</sys_created_on>
-            <sys_id>81464efedb7aa30035c8f78dbf9619ae</sys_id>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>dd1512c3db76e30035c8f78dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:18:43</sys_updated_on>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>status</element>
-            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">49464efedb7aa30035c8f78dbf9619ac</list_id>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:18:43</sys_created_on>
-            <sys_id>05464efedb7aa30035c8f78dbf9619ae</sys_id>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>511512c3db76e30035c8f78dbf961925</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:18:43</sys_updated_on>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested</element>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>d11512c3db76e30035c8f78dbf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approved1</element>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>551512c3db76e30035c8f78dbf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approved2</element>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>d51512c3db76e30035c8f78dbf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approved3</element>
+            <list_id display_value="x_snc_poc_requesta_requests" element="NULL" name="x_snc_poc_requesta_requests" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">911512c3db76e30035c8f78dbf961924</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>le-binh</sys_created_by>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
+            <sys_id>591512c3db76e30035c8f78dbf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>le-binh</sys_updated_by>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -87,10 +147,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>le-binh</sys_created_by>
-            <sys_created_on>2019-01-08 10:18:43</sys_created_on>
+            <sys_created_on>2019-01-09 06:01:56</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>49464efedb7aa30035c8f78dbf9619ac</sys_id>
+            <sys_id>911512c3db76e30035c8f78dbf961924</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_poc_requesta_requests</sys_name>
             <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
@@ -98,7 +158,7 @@
             <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
             <sys_update_name>sys_ui_list_x_snc_poc_requesta_requests_null</sys_update_name>
             <sys_updated_by>le-binh</sys_updated_by>
-            <sys_updated_on>2019-01-08 10:18:43</sys_updated_on>
+            <sys_updated_on>2019-01-09 06:01:56</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

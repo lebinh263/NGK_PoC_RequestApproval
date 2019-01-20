@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"05290027db7227004a397a1ebf96193a","name":"plan"}}</plan>
+        <plan_id>b852e28fdb76e30035c8f78dbf96197d</plan_id>
+        <snapshot>0429cce3db7227004a397a1ebf96193e</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>le-binh</sys_created_by>
+        <sys_created_on>2019-01-10 09:07:30</sys_created_on>
+        <sys_id>05290027db7227004a397a1ebf96193a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>c1290027db7227004a397a1ebf961938</sys_name>
+        <sys_package display_value="PoC_RequestApproval" source="x_snc_poc_requesta">83e1863edb7aa30035c8f78dbf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PoC_RequestApproval">83e1863edb7aa30035c8f78dbf961983</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_05290027db7227004a397a1ebf96193a</sys_update_name>
+        <sys_updated_by>le-binh</sys_updated_by>
+        <sys_updated_on>2019-01-13 05:22:31</sys_updated_on>
+        <trigger display_value="">c1290027db7227004a397a1ebf961938</trigger>
+    </sys_flow_trigger_plan>
+</record_update>
